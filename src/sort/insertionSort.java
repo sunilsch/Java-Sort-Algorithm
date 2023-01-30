@@ -1,6 +1,5 @@
 package sort;
 
-
 public class insertionSort {
     public static void start(int[] list) {
         for (int i = 0; i < list.length; i++) {
